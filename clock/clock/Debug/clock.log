@@ -1,0 +1,21 @@
+﻿Построение начато 28.04.2014 20:56:53.
+     1>Проект "C:\study\4 семестр\стажировка в яндексе\clock\clock\clock.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\clock.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt clock.cpp
+         clock.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\clock.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.lib" /MACHINE:X86 Debug\clock.obj
+         LINK : не найден или не выполнена сборка C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.exe при последней инкрементной компоновке; выполняется полная компоновка
+         clock.vcxproj -> C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\стажировка в яндексе\clock\Debug\clock.exe;#1" /manifest Debug\clock.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\clock.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\clock.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\стажировка в яндексе\clock\clock\clock.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:20.60

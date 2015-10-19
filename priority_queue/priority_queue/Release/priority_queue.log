@@ -1,0 +1,39 @@
+﻿Построение начато 29.04.2014 22:24:52.
+     1>Проект "C:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\priority_queue.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.h(95): warning C4018: <: несоответствие типов со знаком и без знака
+                 c:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.h(89): при компиляции функции-члена "void PriorityQueue<DataType,PriorityType,MAX_SIZE,Compare>::siftDown(size_t)" класса шаблон
+                 with
+                 [
+                     DataType=int,
+                     PriorityType=int,
+                     MAX_SIZE=1000,
+                     Compare=std::less<int>
+                 ]
+                 test.cpp(50): см. ссылку на создание экземпляров класса шаблон при компиляции "PriorityQueue<DataType,PriorityType,MAX_SIZE,Compare>"
+                 with
+                 [
+                     DataType=int,
+                     PriorityType=int,
+                     MAX_SIZE=1000,
+                     Compare=std::less<int>
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Release\priority_queue.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\priority_queue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Release\priority_queue.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Release\priority_queue.lib" /MACHINE:X86 Release\test.obj
+         Создание кода
+         Создание кода завершено
+         priority_queue.vcxproj -> C:\study\4 семестр\стажировка в яндексе\priority_queue\Release\priority_queue.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Release\priority_queue.exe;#1" /manifest Release\priority_queue.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\priority_queue.unsuccessfulbuild" удаляется.
+         Обращение к "Release\priority_queue.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.90

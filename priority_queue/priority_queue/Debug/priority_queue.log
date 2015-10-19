@@ -1,0 +1,20 @@
+﻿Построение начато 29.04.2014 22:08:44.
+     1>Проект "C:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\priority_queue.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\priority_queue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.lib" /MACHINE:X86 Debug\test.obj
+         LINK : не найден или не выполнена сборка C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.exe при последней инкрементной компоновке; выполняется полная компоновка
+         priority_queue.vcxproj -> C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\стажировка в яндексе\priority_queue\Debug\priority_queue.exe;#1" /manifest Debug\priority_queue.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\priority_queue.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\priority_queue.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\стажировка в яндексе\priority_queue\priority_queue\priority_queue.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.03

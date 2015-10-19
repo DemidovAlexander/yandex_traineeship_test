@@ -1,0 +1,34 @@
+"03:00" "deg" "mech" 90
+"15:00" "rad" "mech" 1.5708
+"09:00 PM" "dms" "quar" 90.00'00''
+
+"0:12" "deg" "mech"
+"11:0" "deg" "mech"
+"12:00 AM" "deg" "mech"
+"24:00" "deg" "mech"
+"11:60 PM" "deg" "mech"
+"11:59 RM" "deg" "mech"
+"00:00PM" "deg" "mech"
+"AM 00:00" "deg" "mech"
+"00:00  AM" "deg" "mech"
+"00:00 pm" "deg" "mech"
+"111:00 AM" "deg" "mech"
+"00:111 AM" "deg" "mech"
+"00:00 AM" "deg_" "mech"
+"00:00 AM" "deg" "mech_"
+
+"11:59 PM" "deg" "mech" 5.5000
+"11:59 AM" "dms" "mech" 5.30'00''
+"11:59 PM" "deg" "quar" 24.0000
+"11:59 AM" "dms" "quar" 24.00'00''
+"15:32" "dms" "quar" 102.00'00''
+"20:02" "rad" "mech" 2.2864
+"11:30" "rad" "quar" 2.6180
+"00:00" "rad" "mech" 0.0000
+"00:00 AM" "dms" "quar" 0.00'00''
+"23:57" "dms" "quar" 12.00'00''
+"06:00" "deg" "mech" 180.0000
+"04:37" "dms" "quar" 102.00'00''
+"03:23" "dms" "mech" 36.30'00''
+"01:39" "deg" "mech" 175.5000
+"22:14" "rad" "mech" 2.3911
